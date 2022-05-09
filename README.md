@@ -1,2 +1,3 @@
 # Netflix-Movie-Recommendation-system-using-NLP
 A Recommendation system that matches the content on the bases of similarities between a given set of users and a set of items(In this case Netflix movies). 
+Using content-based filtering to suggest similar items based on a particular item. This system uses item metadata, such as genre, director, description, actors, etc. for movies, to make these recommendations. The general idea behind these recommender systems is that if a person likes a particular item, he or she will also like an item that is similar to it. And to recommend that, it will make use of the user's past item metadata. A good example could be YouTube, where based on your history, it suggests you new videos that you could potentially watch.
